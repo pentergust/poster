@@ -1,0 +1,12 @@
+- [X] Отправить первое сообщение
+- [ ] Discord
+    - [X] Text
+    - [X] MarkDown
+    - [ ] Embed
+    - [ ] Thread by ID
+- [ ] Telegram
+    - [X] Text
+    - [ ] MarkDown
+    - [ ] Embed
+- [ ] Web
+- [ ] Web server
